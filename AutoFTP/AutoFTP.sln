@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFTP", "AutoFTP\AutoFTP.csproj", "{24025AF3-5CE3-4C19-97EC-DE2706122AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFTPTest", "AutoFTPTest\AutoFTPTest.csproj", "{00AA7A4D-C020-4740-ABD2-20BB480A0EF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24025AF3-5CE3-4C19-97EC-DE2706122AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24025AF3-5CE3-4C19-97EC-DE2706122AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24025AF3-5CE3-4C19-97EC-DE2706122AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24025AF3-5CE3-4C19-97EC-DE2706122AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AA7A4D-C020-4740-ABD2-20BB480A0EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AA7A4D-C020-4740-ABD2-20BB480A0EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AA7A4D-C020-4740-ABD2-20BB480A0EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AA7A4D-C020-4740-ABD2-20BB480A0EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
